@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5"  client="site" type="language" method="upgrade">
+	<tag>az-AZ</tag>
+	<name>Azerbaijan (az-AZ)</name>
+	<version>2.5.7.1</version>
+	<creationDate>4 sentyabr 2012</creationDate>
+	<author>Farhad Guluzade</author>
+	<authorEmail>jumancy@yahoo.com</authorEmail>
+	<authorUrl>joomla-az.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Azerbaijan site language pack for Joomla! 2.5.7v1</description>
+	<files>
+		<filename>az-AZ.com_contact.ini</filename>
+		<filename>az-AZ.com_content.ini</filename>
+		<filename>az-AZ.com_finder.ini</filename>
+		<filename>az-AZ.com_mailto.ini</filename>
+		<filename>az-AZ.com_media.ini</filename>
+		<filename>az-AZ.com_messages.ini</filename>
+		<filename>az-AZ.com_newsfeeds.ini</filename>
+		<filename>az-AZ.com_search.ini</filename>
+		<filename>az-AZ.com_users.ini</filename>
+		<filename>az-AZ.com_weblinks.ini</filename>
+		<filename>az-AZ.com_wrapper.ini</filename>
+		<filename>az-AZ.files_joomla.sys.ini</filename>
+		<filename>az-AZ.finder_cli.ini</filename>
+		<filename>az-AZ.ini</filename>
+		<filename>az-AZ.lib_joomla.ini</filename>
+		<filename>az-AZ.lib_joomla.sys.ini</filename>
+		<filename>az-AZ.lib_phpmailer.sys.ini</filename>
+		<filename>az-AZ.lib_phputf8.sys.ini</filename>
+		<filename>az-AZ.lib_simplepie.sys.ini</filename>
+		<filename>az-AZ.localise.php</filename>
+		<filename>az-AZ.mod_articles_archive.ini</filename>
+		<filename>az-AZ.mod_articles_archive.sys.ini</filename>
+		<filename>az-AZ.mod_articles_categories.ini</filename>
+		<filename>az-AZ.mod_articles_categories.sys.ini</filename>
+		<filename>az-AZ.mod_articles_category.ini</filename>
+		<filename>az-AZ.mod_articles_category.sys.ini</filename>
+		<filename>az-AZ.mod_articles_latest.ini</filename>
+		<filename>az-AZ.mod_articles_latest.sys.ini</filename>
+		<filename>az-AZ.mod_articles_news.ini</filename>
+		<filename>az-AZ.mod_articles_news.sys.ini</filename>
+		<filename>az-AZ.mod_articles_popular.ini</filename>
+		<filename>az-AZ.mod_articles_popular.sys.ini</filename>
+		<filename>az-AZ.mod_banners.ini</filename>
+		<filename>az-AZ.mod_banners.sys.ini</filename>
+		<filename>az-AZ.mod_breadcrumbs.ini</filename>
+		<filename>az-AZ.mod_breadcrumbs.sys.ini</filename>
+		<filename>az-AZ.mod_custom.ini</filename>
+		<filename>az-AZ.mod_custom.sys.ini</filename>
+		<filename>az-AZ.mod_feed.ini</filename>
+		<filename>az-AZ.mod_feed.sys.ini</filename>
+		<filename>az-AZ.mod_finder.ini</filename>
+		<filename>az-AZ.mod_finder.sys.ini</filename>
+		<filename>az-AZ.mod_footer.ini</filename>
+		<filename>az-AZ.mod_footer.sys.ini</filename>
+		<filename>az-AZ.mod_languages.ini</filename>
+		<filename>az-AZ.mod_languages.sys.ini</filename>
+		<filename>az-AZ.mod_login.ini</filename>
+		<filename>az-AZ.mod_login.sys.ini</filename>
+		<filename>az-AZ.mod_menu.ini</filename>
+		<filename>az-AZ.mod_menu.sys.ini</filename>
+		<filename>az-AZ.mod_random_image.ini</filename>
+		<filename>az-AZ.mod_random_image.sys.ini</filename>
+		<filename>az-AZ.mod_related_items.ini</filename>
+		<filename>az-AZ.mod_related_items.sys.ini</filename>
+		<filename>az-AZ.mod_search.ini</filename>
+		<filename>az-AZ.mod_search.sys.ini</filename>
+		<filename>az-AZ.mod_stats.ini</filename>
+		<filename>az-AZ.mod_stats.sys.ini</filename>
+		<filename>az-AZ.mod_syndicate.ini</filename>
+		<filename>az-AZ.mod_syndicate.sys.ini</filename>
+		<filename>az-AZ.mod_users_latest.ini</filename>
+		<filename>az-AZ.mod_users_latest.sys.ini</filename>
+		<filename>az-AZ.mod_weblinks.ini</filename>
+		<filename>az-AZ.mod_weblinks.sys.ini</filename>
+		<filename>az-AZ.mod_whosonline.ini</filename>
+		<filename>az-AZ.mod_whosonline.sys.ini</filename>
+		<filename>az-AZ.mod_wrapper.ini</filename>
+		<filename>az-AZ.mod_wrapper.sys.ini</filename>
+		<filename>az-AZ.pkg_joomla.sys.ini</filename>
+		<filename>az-AZ.tpl_atomic.ini</filename>
+		<filename>az-AZ.tpl_atomic.sys.ini</filename>
+		<filename>az-AZ.tpl_beez_20.ini</filename>
+		<filename>az-AZ.tpl_beez_20.sys.ini</filename>
+		<filename>az-AZ.tpl_beez5.ini</filename>
+		<filename>az-AZ.tpl_beez5.sys.ini</filename>
+		<filename file="meta">install.xml</filename>
+		<filename file="meta">az-AZ.xml</filename>
+	</files>
+	<params />
+</extension>

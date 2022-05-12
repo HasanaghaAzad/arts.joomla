@@ -1,0 +1,78 @@
+a {
+    color: #000000;
+}
+.white {
+    background-color: white;
+    text-align: left;
+    padding: 30px 0;
+    font-family: Arial;
+    border-top: 1px solid #fff;
+    color: #525050;
+    min-height: 75vh;
+}
+.col-lg-6.col-md-6.col-sm-12 .item-image img {
+    max-width: 100%;
+}
+ol.breadcrumb {
+    background: none;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+article p {
+    margin-bottom: 15px;
+    line-height: 1.5em;
+    font-size: 1.2em;
+    font-family: Tahoma,serif;
+}
+
+article h1 {
+    margin-bottom: 30px;
+}
+.oneart {
+    text-align: center;
+    font-family: 'Fira-Sans';
+    overflow: hidden;
+    margin: 30px 0;
+}
+.oneart img {
+    height: 175px;
+    width: auto;
+}
+.artworks .oneart img {
+    height: 185px;
+    max-height: 185px;
+
+}
+p.art-title {
+    margin-top: 20px;
+    margin-bottom: 13px;
+    font-size: 18px;
+    font-family: Helvetica;
+    font-weight: normal;
+}
+.category .oneart{
+    margin-bottom:30px;
+}
+.pagination{margin: 50px 0;}
+.pagination a{color:#000;}
+.pagination a {
+    color: #000 !important;
+    border-color: #ffffff !important;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #fff;
+    text-decoration: underline;
+}
+.material p {
+
+    font-family: 'Fira-Sans';
+
+}
+
+
+p.socials i {
+    color: gray;
+}
+.cat-items .col-md-10.col-md-offset-1 {margin-top: 20px;margin-bottom: 100px;padding-left: 0;}
+.cat-items .col-md-10.col-md-offset-1 .shorttext{padding-bottom:30px;}

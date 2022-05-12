@@ -1,0 +1,17 @@
+# Apache 2.4+
+<IfModule mod_authz_core.c>
+  Require all denied
+</IfModule>
+
+# Apache 2.0-2.2
+<IfModule !mod_authz_core.c>
+  Deny from all
+</IfModule>
+<IfModule mod_autoindex.c>
+  IndexIgnore *
+</IfModule>
+<FilesMatch "\.svg$">
+  <IfModule mod_headers.c>
+    Header always set Content-Security-Policy "script-src 'none'"
+  </IfModule>
+</FilesMatch>

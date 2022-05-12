@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metafile version="2.5" client="site">
+	<tag>az-AZ</tag>
+	<name>Azerbaijan (az-AZ)</name>
+	<version>2.5.7.1</version>
+	<creationDate>4 sentyabr 2012</creationDate>
+	<author>Farhad Guluzade</author>
+	<authorEmail>jumancy@yahoo.com</authorEmail>
+	<authorUrl>joomla-az.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Azerbaijan site language pack for Joomla! 2.5.7v1</description>
+	<metadata>
+		<name>Azerbaijan (az-AZ)</name>
+		<tag>az-AZ</tag>
+		<rtl>0</rtl>
+		<locale>az-AZ.utf8, az-AZ.UTF-8, az_AZ.utf8, az-AZ.UTF-8, az-AZ, az_AZ, az, azerbaijan, azerbaijan-az</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>
